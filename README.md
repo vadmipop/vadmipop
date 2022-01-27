@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Vadim.
+- 👀 I’m curious about physics, computer science, and their intersections. I am particularly interested in quantum computing. 
+- 🌱 This semester, I am learning quantum and analytical mechanics, mathematical physics, and computer organization system.
+- 📫 You can reach me at vp325@cornell.edu.
